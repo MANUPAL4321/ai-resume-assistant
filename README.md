@@ -203,6 +203,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Manu Pal**
+**Manu Kumar**
 
 Built with ❤️ to learn modern Full Stack Development and AI Integration.
