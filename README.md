@@ -1,6 +1,3 @@
-# ai-resume-analyzer
-An AI-powered career assistant that analyzes resumes, evaluates ATS compatibility, generates interview questions, provides personalized career roadmaps, and helps users prepare for their next job using React, Spring Boot, PostgreSQL, and Spring AI.
-
 # 🚀 AI Career Assistant
 
 > **An AI-powered full-stack web application that helps users optimize their resumes, improve ATS compatibility, prepare for interviews, and receive personalized career guidance using modern AI technologies.**
